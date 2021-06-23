@@ -7,7 +7,8 @@
 # I know how to get a GF
 [ayy@localhost ~]$ gcc gf.c -o gf
 [ayy@localhost ~]$ ./gf
-[ayy@localhost ~]$ Segmentation Fault (SIGSEGV)
+Segmentation Fault (SIGSEGV)
+[ayy@localhost ~]$
 ```
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-fuwn.vercel.app/api/top-langs/?username=hahacompilergoesbrr&layout=compact&theme=alduin" alt="Trophy" /></a>
